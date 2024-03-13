@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ohai. My name is Silver and I'm jsut a wolf with an internet connection. My pronouns are He/Him/They/Them
+### I'm currently working on making a game in RPG maker.
+### I'm intrested in learning languages, coding, cooking, gaming, bushcrafting, and whatnot.
+### Don't be afraid to ask me anything.
 
 <!--
 **Silverwolfxp/Silverwolfxp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
