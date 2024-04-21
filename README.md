@@ -1,4 +1,4 @@
-o/ Ohai \n
-   My name's Silver. :3 \n
-      I do wolf stuff. \n
+o/ Ohai 
+   My name's Silver. :3 
+      I do wolf stuff. 
          ~~Awoo~~
